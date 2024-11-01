@@ -1,4 +1,4 @@
-![Profile banner](https://xatimg.com/image/hm3y6QCppMXe.gif)
+![Profile banner](https://xatimg.com/image/KcuJZCfC976d.gif)
 
 ## 🎮 - Introduction
 
