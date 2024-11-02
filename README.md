@@ -2,8 +2,7 @@
 
 ## 🎮 - Introduction
 
-Olá, Sou Um Dev na área de Front End, meu foco é trabalhar com Gamer retrôs, como pixel, RPG 8bits e etc.
-
+Olá, Sou Um Dev na área de Front End, Sou mais focando em Desenvolvimento de Web Sites, Gamers, Discover.
 
 ## 💻 - Tecnologies
 
