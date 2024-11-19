@@ -13,4 +13,4 @@ Olá, Sou Um Dev na área de Front End, Sou mais focando em Desenvolvimento de W
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<a href="https://app.daily.dev/caio44"><img src="https://api.daily.dev/devcards/v2/gnpJhKLQnglTngwhRs4Iw.png?type=default&r=f4i" width="356" alt="DufortSS's Dev Card"/></a>
+<a href="https://app.daily.dev/caio44"><img src="https://api.daily.dev/devcards/v2/gnpJhKLQnglTngwhRs4Iw.png?type=wide&r=w32" width="652" alt="DufortSS's Dev Card"/></a>
