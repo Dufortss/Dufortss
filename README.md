@@ -11,8 +11,7 @@
 
 ## 🎮 Introduction
 
-| Olá, sou **Dufort SS**.  
-Sou um desenvolvedor focado em **Front-End**, com maior interesse em criar **websites com visual gamer**, interfaces chamativas e projetos com identidade própria.| <img src="https://xatimg.com/image/WMdjMfJeUioY.gif" width="100%">|
+| ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23C8FF&center=true&width=700&lines=Ol%C3%A1%2C+sou+Dufort+SS;Sou+um+desenvolvedor+focado+em+Front-End;Criando+websites+com+visual+gamer;Interfaces+chamativas+e+identidade+pr%C3%B3pria.) | ![](https://xatimg.com/image/WMdjMfJeUioY.gif) |
 |:-:|:-:|
 
 
