@@ -12,8 +12,8 @@
 ## 🎮 Introduction
 
 Olá, sou **Dufort SS**.  
-Sou um desenvolvedor focado em **Front-End**, com maior interesse em criar **websites com visual gamer**, interfaces chamativas e projetos com identidade própria.
-
+Sou um desenvolvedor focado em **Front-End**, com maior interesse em criar **websites com visual gamer**, interfaces chamativas e projetos com identidade própria. | <img src="https://xatimg.com/image/WMdjMfJeUioY.gif" width="100%">
+t
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
