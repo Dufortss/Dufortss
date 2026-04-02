@@ -11,7 +11,7 @@
 
 ## 🎮 Introduction
 
-| ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23C8FF&center=true&width=700&lines=Ol%C3%A1%2C+sou+Dufort+SS;Sou+um+desenvolvedor+focado+em+Front-End;Criando+websites+com+visual+gamer;Interfaces+chamativas+e+identidade+pr%C3%B3pria.) | ![](https://xatimg.com/image/WMdjMfJeUioY.gif) |
+ | ![](https://xatimg.com/image/BAKSc5UsdZLV.gif)| ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23C8FF&center=true&width=700&lines=Ol%C3%A1%2C+sou+Dufort+SS;Sou+um+desenvolvedor+focado+em+Front-End;Criando+websites+com+visual+gamer;Interfaces+chamativas+e+identidade+pr%C3%B3pria.) |
 |:-:|:-:|
 
 
@@ -20,6 +20,8 @@
 ## 💻 Technologies
 
 <div align="center">
+
+![](https://xatimg.com/image/WMdjMfJeUioY.gif)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,6 +53,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DufortSS&theme=tokyonight)
 
+
 </div>
 
 
@@ -59,6 +62,10 @@
 <div align="center">
 
 ![Profile banner](https://xatimg.com/image/5TUBFa0TPdFb.png)
+![](https://xatimg.com/image/avYXnHs7qUxU.gif)
 
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+
+
