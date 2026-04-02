@@ -13,7 +13,7 @@
 
 | Olá, sou **Dufort SS**.  
 Sou um desenvolvedor focado em **Front-End**, com maior interesse em criar **websites com visual gamer**, interfaces chamativas e projetos com identidade própria.| <img src="https://xatimg.com/image/WMdjMfJeUioY.gif" width="100%">|
-|:-:| :-:|
+|:-:|:-:|
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -28,7 +28,12 @@ Sou um desenvolvedor focado em **Front-End**, com maior interesse em criar **web
 ![JWT](https://img.shields.io/badge/JWT-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-</div>
+
+
+
+</div>  
+
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
