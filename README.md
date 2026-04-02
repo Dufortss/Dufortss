@@ -2,20 +2,20 @@
 
 ![Profile banner](https://xatimg.com/image/RbIH1sHgOWsv.gif)
 
-# ⚡ Dufort SS
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=⚡+DUFORT+SS;FRONT-END+DEV" alt="Dufort SS Neon" />
 
-### Front-End Developer • Web Sites • Gamer Style • Discover
+### 💻 Web Sites • 🎮 Gamer Style • 🚀 Discover
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
-
----
 
 ## 🎮 Introduction
 
 Olá, sou **Dufort SS**.  
 Sou um desenvolvedor focado em **Front-End**, com maior interesse em criar **websites com visual gamer**, interfaces chamativas e projetos com identidade própria.
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 💻 Technologies
 
@@ -30,7 +30,8 @@ Sou um desenvolvedor focado em **Front-End**, com maior interesse em criar **web
 
 </div>
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -48,10 +49,12 @@ Sou um desenvolvedor focado em **Front-End**, com maior interesse em criar **web
 
 </div>
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
 
 ![Profile banner](https://xatimg.com/image/5TUBFa0TPdFb.png)
 
 </div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
