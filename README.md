@@ -42,12 +42,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<p align="center">
+  <a href="https://github.com/Dufortss">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dufortss&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Dufortss's GitHub Stats" />
+  </a>
+</p>
+ 
 | Stats | Most Used Languages |
 | :---: | :---: |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DufortSS&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DufortSS&theme=tokyonight) |
 
 </div>
+
+
 
 <div align="center">
 
