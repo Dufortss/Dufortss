@@ -5,10 +5,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=⚡+DUFORT+SS;FRONT-END+DEV" alt="Dufort SS Neon" />
 
 ### 💻 Web Sites • 🎮 Gamer Style • 🚀 Discover
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B818Y9SE)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B818Y9SE)
 
 ## 🎮 Introduction
 
