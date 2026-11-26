@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile banner](https://xatimg.com/image/RbIH1sHgOWsv.gif)
+![Profile banner](https://xatimg.com/image/JgArEModj6ak.jpg)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=⚡+DUFORT+SS;FRONT-END+DEV" alt="Dufort SS Neon" />
 
