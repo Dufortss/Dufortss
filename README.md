@@ -43,6 +43,8 @@
 
 ## 📊 GitHub Stats
 
+![Estatísticas do GitHub](https://ghstats.dev/api/card?username=DufortSS)
+
 <div align="center">
 <p align="center">
   <a href="https://github.com/Dufortss">
