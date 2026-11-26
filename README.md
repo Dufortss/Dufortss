@@ -46,7 +46,7 @@
 <div align="center">
 <p align="center">
   <a href="https://github.com/Dufortss">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dufortss&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Dufortss's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DufortSS&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="DufortSS's GitHub Stats" />
   </a>
 </p>
  
